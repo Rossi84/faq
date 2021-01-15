@@ -4,7 +4,7 @@ Accesso e registrazione
 Come accedo a ConciliaWeb?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-E' possibile accedere alla piattaforma previo registrazione, tramite il link `registrati <https://conciliaweb.agcom.it/conciliaweb/profilo/create.htm/>`_ oppure dalla `homepage di ConciliaWeb <https://conciliaweb.agcom.it/conciliaweb/login.htm/>`_ con SPID. Qualora l'utenza sia da associare ad una persona giuridica, il soggetto che la rappresenta dovrà registrarsi e successivamente inserire i dati dell'azienda rappresentata.
+E' possibile accedere alla piattaforma previo mediante SPID o CIE.
 
 Non riesco a registrarmi alla piattaforma, cosa posso fare?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
