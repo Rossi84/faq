@@ -4,7 +4,7 @@ Accesso e registrazione
 Come accedo a ConciliaWeb?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-E' possibile accedere alla piattaforma previo mediante SPID o CIE.
+E’ possibile accedere alla piattaforma Conciliaweb esclusivamente mediante SPID o Carta d'identità elettronica (CIE). Qualora l’utenza sia da associare ad una persona giuridica, il soggetto che la rappresenta dovrà accedere e successivamente inserire i dati dell’azienda rappresentata.
 
 Non riesco a registrarmi alla piattaforma, cosa posso fare?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
