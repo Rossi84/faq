@@ -21,3 +21,8 @@ Per errore ho selezionato la procedura non telematica. Posso cambiare il tipo di
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Effettuato l’accesso al portale ConciliaWeb, nella sezione `profilo <https://conciliaweb.agcom.it/conciliaweb/profilo/edit.htm>`_ è possibile togliere la spunta a procedura non telematica.
+
+Posso cambiare l'email o il numero di cellulare indicato in fase di registrazione ?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Effettuato l’accesso al portale ConciliaWeb, nella sezione `profilo <https://conciliaweb.agcom.it/conciliaweb/profilo/edit.htm>`_ è possibile cambiare l'email o il numero di cellulare.
