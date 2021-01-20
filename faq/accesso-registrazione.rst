@@ -9,11 +9,11 @@ Dal 1° febbraio 2021 per la presentazione di nuove istanze sarà possibile acce
 Come posso effettuare il reset della password ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Gli utenti dotati di account SPID o o Carta d'identità elettronica(CIE) possono recuperare la password mediante i servizi offerti dal proprio provider. Per il recupero della password associata ad un account locale è necessario utilizzare il link `Password dimenticata <https://conciliaweb.agcom.it/conciliaweb/profilo/lost.htm/>`_. 
+Gli utenti dotati di account SPID o Carta d'identità elettronica(CIE) possono recuperare la password mediante i servizi offerti dal proprio provider. Per il recupero della password associata ad un account locale associato al CODICE FISCALE è possibile utilizzare il link `Password dimenticata <https://conciliaweb.agcom.it/conciliaweb/profilo/lost.htm>`_. 
 
 
 Non riesco a completare la procedura di inserimento dei dati personali dopo il login, cosa posso fare ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Per completare la procedura è necessario inserire almeno i campi obbligatori contrassegnati da un asterisco e ottenere la validazione di ogni dato inserito (validazione indicata in verde). Ove il problema persista, l'utente può richiedere supporto tecnico mediante i canali di `assistenza <https://conciliaweb.agcom.it/conciliaweb/contatti/assistenza.htm#contatti/>`_.
+Per completare la procedura è necessario inserire almeno i campi obbligatori contrassegnati da un asterisco e ottenere la validazione di ogni dato inserito (validazione indicata in verde). Ove il problema persista, l'utente può richiedere supporto tecnico mediante i canali di `assistenza <https://conciliaweb.agcom.it/conciliaweb/contatti/assistenza.htm#contatti>`_.
 
