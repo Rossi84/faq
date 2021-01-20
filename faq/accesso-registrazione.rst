@@ -17,3 +17,7 @@ Non riesco a completare la procedura di inserimento dei dati personali dopo il l
 
 Per completare la procedura è necessario inserire almeno i campi obbligatori contrassegnati da un asterisco e ottenere la validazione di ogni dato inserito (validazione indicata in verde). Ove il problema persista, l'utente può richiedere supporto tecnico mediante i canali di `assistenza <https://conciliaweb.agcom.it/conciliaweb/contatti/assistenza.htm#contatti>`_.
 
+Per errore ho selezionato la procedura non telematica. Posso cambiare il tipo di procedura ?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Effettuato l’accesso al portale ConciliaWeb, nella sezione `profilo <https://conciliaweb.agcom.it/conciliaweb/profilo/edit.htm>` è possibile togliere la spunta a `procedura non telematica`.
