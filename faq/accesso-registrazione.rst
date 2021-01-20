@@ -20,4 +20,4 @@ Per completare la procedura è necessario inserire almeno i campi obbligatori co
 Per errore ho selezionato la procedura non telematica. Posso cambiare il tipo di procedura ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Effettuato l’accesso al portale ConciliaWeb, nella sezione `profilo <https://conciliaweb.agcom.it/conciliaweb/profilo/edit.htm>` è possibile togliere la spunta a `procedura non telematica`.
+Effettuato l’accesso al portale ConciliaWeb, nella sezione `profilo <https://conciliaweb.agcom.it/conciliaweb/profilo/edit.htm>`_ è possibile togliere la spunta a procedura non telematica.
