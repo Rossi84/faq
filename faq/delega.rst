@@ -1,23 +1,27 @@
 Delega
 ======
 
-Posso delegare un avvocato o un'associazione dei consumatori per l'espletamento delle procedure ?
+Quali sono i soggetti che possono essere delegati per l'espletamento delle procedure ?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+i soggetti delegabili sono gli avvocati e le associazioni dei consumatori (in qualità di soggetti accreditati) e gli utenti registrati in piattaforma (delegati).
+
+Cosa avviene la delega ad un soggetto accreditato ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Gli avvocati e le associazione dei consumatori, in qualità di soggetti accreditati, possono inserire le istanze e seguire tutte le procedure per conto dell'interessato.
-In tal caso non occorre che l'interessato sia registrato in ConciliaWeb. Per essere rappresentato, l'interessato dovrà conferire il mandato al soggetto accreditato,
-mediante il modello predisposto in ConciliaWeb. Il mandato si riferisce ad una singola istanza. L'interessato riceverà le notifiche di avvio e conclusione del procedimento.
+Gli avvocati e le associazioni dei consumatori, possono curare l'inserimento e l'espletamento di tutte le procedure per conto dell'interessato.
+Il soggetto accreditato è tenuto ad inserire i dati per la registrazione di quest'ultimo, qualora non sia già presente in piattaforma. Il processo di delega prevede 
+che l'interessato conferisca un mandato al soggetto accreditato per ogni istanza delegata, mediante il modello predisposto in ConciliaWeb. 
 
-Posso delegare una persona fisica per l'espletamento delle procedure ?
+Cosa avviene la delega ad un utente registrato ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Questa modalità prevede che l'interessato sia registrato in ConciliaWeb e che quest'ultimo provveda in autonomia all'inserimento dell'istanza. 
+Inserendo il codice fiscale del delegato in corrispondenza del campo previsto per la singola istanza, quest'ultima sarà assegnata al delegato.  
 
-In tal caso è necessario che l'interessato e il delegato siano entrambi registrati in piattaforma. Anche in questo caso la delega riguarda una singola istanza. L'assegnazione in delega
-avviene mediante l'inserimento del codice fiscale del delegato nell’apposito campo.
-
-Posso revocare il mandato ? 
+Posso revocare la delega ? 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Si, dal menù 'i procedimenti che hai delago', è possibile revocare la delega cliccando sul pulsante espelli ed inserendo l'otp.
-Successivamente l'utente potrà seguire in autonomia il procedimento oppure assegnarlo ad un altro soggetto accreditato.
+Si, dal menù `i procedimenti che hai delegato <https://conciliaweb.agcom.it/conciliaweb/profilo/edit.htm>`_, è possibile revocare la delega cliccando sul pulsante espelli in corrispondenza dell'istanza. 
+Completato il processo di revoca, l'utente potrà seguire in autonomia il procedimento oppure assegnarlo ad un altro soggetto accreditato.
 
 
