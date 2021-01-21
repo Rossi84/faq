@@ -6,14 +6,15 @@ Quali sono i soggetti che possono essere delegati per l'espletamento delle proce
 
 i soggetti delegabili sono gli avvocati e le associazioni dei consumatori (in qualità di soggetti accreditati) e gli utenti registrati in piattaforma (delegati).
 
-Cosa avviene la delega ad un soggetto accreditato ?
+Cosa avviene la delega di un soggetto accreditato ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gli avvocati e le associazioni dei consumatori, possono curare l'inserimento e l'espletamento di tutte le procedure per conto dell'interessato.
-Il soggetto accreditato è tenuto ad inserire i dati per la registrazione di quest'ultimo, qualora non sia già presente in piattaforma. Il processo di delega prevede 
-che l'interessato conferisca un mandato al soggetto accreditato per ogni istanza delegata, mediante il modello predisposto in ConciliaWeb. 
+Il soggetto accreditato è tenuto ad inserire i dati per la registrazione dell'interessato, qualora non sia già presente in piattaforma, e tutti i dati richiesti per l'inserimento dell'istanza. Il processo di delega prevede 
+che l'interessato conferisca un mandato al soggetto accreditato per ogni istanza delegata, mediante il modello predisposto in ConciliaWeb. L'interessato riceverà le notifiche di avvio e chiusura
+del procedimento via SMS al numero indicato in fase di registrazione.
 
-Cosa avviene la delega ad un utente registrato ?
+Cosa avviene la delega di un utente registrato ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Questa modalità prevede che l'interessato sia registrato in ConciliaWeb e che quest'ultimo provveda in autonomia all'inserimento dell'istanza. 
 Inserendo il codice fiscale del delegato in corrispondenza del campo previsto per la singola istanza, quest'ultima sarà assegnata al delegato.  
