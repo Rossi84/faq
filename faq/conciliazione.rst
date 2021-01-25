@@ -32,3 +32,9 @@ Come posso aggiungere un ulteriore disservizio al procedimento o modificare i da
 
 Dopo aver effettuato l'accesso ai **Tuoi procedimenti**, cliccando su **Azioni** e successivamente sull'icona **Integrare l'istanza**, 
 è possibile aggiungere nuovi disservizi o operatori.
+
+
+Che cosa accade se una o entrambe le parti non si presentano in udienza ? 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Se l’operatore non compare in udienza, il responsabile designato dal Corecom dà atto nel verbale dell’esito negativo della procedura di conciliazione. Se l’utente o entrambe le parti non compaiono in udienza, il responsabile redige un verbale di mancata comparizione e il procedimento è archiviato, salvo i casi di giustificato impedimento, per i quali può disporsi un rinvio.

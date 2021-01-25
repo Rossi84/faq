@@ -11,6 +11,7 @@ In questa sezione sono presenti le faq relative alla piattaforma ConciliaWeb
 
   faq/informazioni-generali.rst
   faq/accesso-registrazione.rst
+  faq/provvedimento.rst
   faq/negoziazione.rst
   faq/conciliazione.rst
   faq/delega.rst
