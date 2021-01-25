@@ -15,7 +15,7 @@ La piattaforma ConciliaWeb utilizza Microsoft Teams per le udienze in virtual ro
 `Browser supportato <https://docs.microsoft.com/en-us/microsoftteams/get-clients#web-client>`_ oppure mediante L'app gratuita `scaricabile dal sito del fornitore <https://www.microsoft.com/en-gb/microsoft-teams/download-app>`_.
 
 
-Che cosa devo indicare nel campo data di inizio possesso del numero in caso si portabilità tra due operatori ?
+Che cosa devo indicare nel campo `data di inizio possesso del numero` in caso si portabilità tra due operatori ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nel caso citato va segnalata la data dalla quale il nuovo operatore è subentrato nella gestione della numerazione.	
