@@ -12,5 +12,5 @@ I tempi per passare da un operatore ad un altro sono troppo lunghi. Quale voce d
 La voce da scegliere è **Ritardo nel passaggio tra due operatori**. 
 
 
-Come posso aggiungere un ulteriore disservizio al procedimento già aperto? Posso modificare i dati dei disservizi inseriti ? ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Dopo aver effettuato l’accesso ai **Tuoi procedimenti**, cliccando su **Azioni** e successivamente sull’icona **Integrare l'istanz**, è possibile aggiungere nuovi disservizi o operatori.
+Come posso aggiungere un ulteriore disservizio al procedimento o modificare i dati dei disservizi inseriti ? ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dopo aver effettuato l'accesso ai **Tuoi procedimenti**, cliccando su **Azioni** e successivamente sull'icona **Integrare l'istanza**, è possibile aggiungere nuovi disservizi o operatori.
