@@ -1,9 +1,8 @@
 Conciliazione
 =============
 
-Tra i dati richiesti per la conciliazione vi è la data di inizio possesso del numero. Che cosa indicare se sono stati sottoscritti più contratti con diversi operatori per lo stesso numero ?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+Che cosa indicare nel campo **data di inizio possesso del numero** in caso si portabilità tra due operatori ?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nel caso citato va segnalata la data dalla quale il nuovo operatore è subentrato nella gestione della numerazione.	
 
@@ -11,3 +10,8 @@ Nel caso citato va segnalata la data dalla quale il nuovo operatore è subentrat
 
 I tempi per passare da un operatore ad un altro sono troppo lunghi. Quale voce di disservizio devo scegliere ? 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+La voce da scegliere è **Ritardo nel passaggio tra due operatori**. 
+
+
+Come posso aggiungere un ulteriore disservizio al procedimento già aperto? Posso modificare i dati dei disservizi inseriti ? ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dopo aver effettuato l’accesso ai **Tuoi procedimenti**, cliccando su **Azioni** e successivamente sull’icona **Integrare l'istanz**, è possibile aggiungere nuovi disservizi o operatori.
