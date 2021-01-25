@@ -9,8 +9,10 @@ Nel caso citato va segnalata la data dalla quale il nuovo operatore è subentrat
 
 I tempi per passare da un operatore ad un altro sono troppo lunghi. Quale voce di disservizio devo scegliere ? 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 La voce da scegliere è **Ritardo nel passaggio tra due operatori**. 
 
 
 Come posso aggiungere un ulteriore disservizio al procedimento o modificare i dati dei disservizi inseriti ? ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Dopo aver effettuato l'accesso ai **Tuoi procedimenti**, cliccando su **Azioni** e successivamente sull'icona **Integrare l'istanza**, è possibile aggiungere nuovi disservizi o operatori.
