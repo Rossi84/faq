@@ -4,7 +4,7 @@ Delega
 Quali sono i soggetti che possono essere delegati per l'espletamento delle procedure ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-i soggetti delegabili sono gli avvocati e le associazioni dei consumatori (soggetti accreditati) e gli utenti registrati in piattaforma (delegati).I soggetti accreditati hanno la facoltà di presentare istanze(UG, GU14 e GU5) e di partecipare alle procedure per conto dell'utente. Invece, i delegati possono solo partecipare alle procedure  solo dopo l'inserimento dell'istanza da parte dell'utente interessato. 
+I soggetti delegabili sono gli avvocati e le associazioni dei consumatori (soggetti accreditati) e gli utenti registrati in piattaforma (delegati). I soggetti accreditati hanno la facoltà di presentare istanze(UG, GU14 e GU5) e di partecipare alle procedure per conto dell'utente. Invece, i delegati possono solo partecipare alle procedure  solo dopo l'inserimento dell'istanza da parte dell'utente interessato. 
 
 Quali attività svolgono i soggetti accreditati ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

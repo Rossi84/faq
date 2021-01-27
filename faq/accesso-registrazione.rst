@@ -28,8 +28,6 @@ Posso cambiare l'email o il numero di cellulare indicato in fase di registrazion
 Effettuato l’accesso al portale ConciliaWeb, nella sezione `profilo <https://conciliaweb.agcom.it/conciliaweb/profilo/edit.htm>`_ è possibile cambiare l'email o il numero di cellulare.
 
 
-Come faccio a vedere questo ?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
